@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piep_Sever", "Piep_Sever\Piep_Sever.vcxproj", "{BC11F320-D9C1-40B5-AD20-CF8ED4DF7B15}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piep_Server", "Piep_Sever\Piep_Sever.vcxproj", "{BC11F320-D9C1-40B5-AD20-CF8ED4DF7B15}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piep_Client", "Piep_Client\Piep_Client.vcxproj", "{C82C410D-361A-4963-A463-D5F588B8230C}"
 EndProject
@@ -17,6 +17,12 @@ EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Piep", "Piep\Piep.vdproj", "{766853E0-B579-4AB4-9F93-86031B81ECE1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegService", "RegService\RegService.vcxproj", "{86D47EAF-1878-4C5B-98EF-CFDB63782F32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OnlyClient", "OnlyClient\OnlyClient.vcxproj", "{9357442C-BB4E-40AE-B258-5170D431387D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientLauncher", "ClientLauncher\ClientLauncher.vcxproj", "{BCE331AB-0A87-4D5A-9911-A9880E23642A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoveService", "RemoveService\RemoveService.vcxproj", "{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +61,30 @@ Global
 		{86D47EAF-1878-4C5B-98EF-CFDB63782F32}.Release|x64.Build.0 = Release|x64
 		{86D47EAF-1878-4C5B-98EF-CFDB63782F32}.Release|x86.ActiveCfg = Release|Win32
 		{86D47EAF-1878-4C5B-98EF-CFDB63782F32}.Release|x86.Build.0 = Release|Win32
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Debug|x64.ActiveCfg = Debug|x64
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Debug|x64.Build.0 = Debug|x64
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Debug|x86.Build.0 = Debug|Win32
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Release|x64.ActiveCfg = Release|x64
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Release|x64.Build.0 = Release|x64
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Release|x86.ActiveCfg = Release|Win32
+		{9357442C-BB4E-40AE-B258-5170D431387D}.Release|x86.Build.0 = Release|Win32
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Debug|x64.ActiveCfg = Debug|x64
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Debug|x64.Build.0 = Debug|x64
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Debug|x86.Build.0 = Debug|Win32
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Release|x64.ActiveCfg = Release|x64
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Release|x64.Build.0 = Release|x64
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Release|x86.ActiveCfg = Release|Win32
+		{BCE331AB-0A87-4D5A-9911-A9880E23642A}.Release|x86.Build.0 = Release|Win32
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Debug|x64.ActiveCfg = Debug|x64
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Debug|x64.Build.0 = Debug|x64
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Debug|x86.Build.0 = Debug|Win32
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Release|x64.ActiveCfg = Release|x64
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Release|x64.Build.0 = Release|x64
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Release|x86.ActiveCfg = Release|Win32
+		{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

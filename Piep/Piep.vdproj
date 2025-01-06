@@ -16,7 +16,25 @@
         "Entry"
         {
         "MsmKey" = "8:_07F80D059FCBADBF22A557F32DFFD5F4"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_07F80D059FCBADBF22A557F32DFFD5F4"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_07F80D059FCBADBF22A557F32DFFD5F4"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_07F80D059FCBADBF22A557F32DFFD5F4"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -28,7 +46,7 @@
         "Entry"
         {
         "MsmKey" = "8:_07F80D059FCBADBF22A557F32DFFD5F4"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,7 +64,25 @@
         "Entry"
         {
         "MsmKey" = "8:_42F2B599FBDDACC67589BED24561AEB2"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_42F2B599FBDDACC67589BED24561AEB2"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_42F2B599FBDDACC67589BED24561AEB2"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_42F2B599FBDDACC67589BED24561AEB2"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -58,19 +94,31 @@
         "Entry"
         {
         "MsmKey" = "8:_42F2B599FBDDACC67589BED24561AEB2"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_53B2C9DB7F8614B5F79E3951B3CEA3EF"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_53B2C9DB7F8614B5F79E3951B3CEA3EF"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_53B2C9DB7F8614B5F79E3951B3CEA3EF"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_53B2C9DB7F8614B5F79E3951B3CEA3EF"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -82,13 +130,31 @@
         "Entry"
         {
         "MsmKey" = "8:_53B2C9DB7F8614B5F79E3951B3CEA3EF"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5A808ACDC41D6FE3F82CA0EECB1DAB88"
         "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_5A808ACDC41D6FE3F82CA0EECB1DAB88"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5A808ACDC41D6FE3F82CA0EECB1DAB88"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5A808ACDC41D6FE3F82CA0EECB1DAB88"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -100,7 +166,7 @@
         "Entry"
         {
         "MsmKey" = "8:_5A808ACDC41D6FE3F82CA0EECB1DAB88"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -111,8 +177,32 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6068548EA5F5C655E5D0756D2D94533E"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6068548EA5F5C655E5D0756D2D94533E"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6068548EA5F5C655E5D0756D2D94533E"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6068548EA5F5C655E5D0756D2D94533E"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -124,13 +214,31 @@
         "Entry"
         {
         "MsmKey" = "8:_6068548EA5F5C655E5D0756D2D94533E"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86DE4B36A3B811FC55908DF9AD3D4547"
         "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_86DE4B36A3B811FC55908DF9AD3D4547"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86DE4B36A3B811FC55908DF9AD3D4547"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86DE4B36A3B811FC55908DF9AD3D4547"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -142,7 +250,7 @@
         "Entry"
         {
         "MsmKey" = "8:_86DE4B36A3B811FC55908DF9AD3D4547"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -153,8 +261,38 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_B3AF30D18288E421B29E03ACA21E4A55"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B3AF30D18288E421B29E03ACA21E4A55"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B3AF30D18288E421B29E03ACA21E4A55"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B3AF30D18288E421B29E03ACA21E4A55"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -166,7 +304,7 @@
         "Entry"
         {
         "MsmKey" = "8:_B3AF30D18288E421B29E03ACA21E4A55"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -177,14 +315,44 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C97A4087D91B5A7BA3668F3D58169DB4"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_DAF4C856C36D418C907F086BA548E094"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_E3694A07E5A63D394EC8776419DF7F64"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E3694A07E5A63D394EC8776419DF7F64"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E3694A07E5A63D394EC8776419DF7F64"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E3694A07E5A63D394EC8776419DF7F64"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -196,13 +364,31 @@
         "Entry"
         {
         "MsmKey" = "8:_E3694A07E5A63D394EC8776419DF7F64"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F11F983AC28099BB26B966B6EF5E4B40"
         "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_F11F983AC28099BB26B966B6EF5E4B40"
-        "OwnerKey" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
+        "OwnerKey" = "8:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F11F983AC28099BB26B966B6EF5E4B40"
+        "OwnerKey" = "8:_988B20612E4F44D09926BAA28148E464"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F11F983AC28099BB26B966B6EF5E4B40"
+        "OwnerKey" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -214,7 +400,7 @@
         "Entry"
         {
         "MsmKey" = "8:_F11F983AC28099BB26B966B6EF5E4B40"
-        "OwnerKey" = "8:_5B8BD4591E9C4A00B61D41BE280B1A93"
+        "OwnerKey" = "8:_5EFCCA6234394A90B0193F9133FCF255"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -248,6 +434,43 @@
                     {
                     "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
                     "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
+        }
+        "OnlyClient"
+        {
+        "DisplayName" = "8:OnlyClient"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:OnlyClient\\Piep.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:3"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 和 x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Visual.C++.14.0.x64"
+                    {
+                    "Name" = "8:Visual C++ \"14\" Runtime Libraries (x64)"
+                    "ProductCode" = "8:Microsoft.Visual.C++.14.0.x64"
                     }
                 }
             }
@@ -294,33 +517,33 @@
     {
         "CustomAction"
         {
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_FE5003C2AB2F4A0AA5180AD1CDFD9E2F"
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_71E34342E43F4DC1B3D16A372CEF05DB"
             {
-            "Name" = "8:RegService"
-            "Condition" = "8:"
-            "Object" = "8:_4B6A858A5B064E5CB38C0DA7201AD10B"
-            "FileType" = "3:2"
-            "InstallAction" = "3:2"
-            "Arguments" = "8:[INSTALLDIR]"
-            "EntryPoint" = "8:"
-            "Sequence" = "3:1"
-            "Identifier" = "8:_3B33E89D_0C38_471E_AB61_FC5A151140DE"
-            "InstallerClass" = "11:FALSE"
-            "CustomActionData" = "8:"
-            }
-            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_FFDBDB7F622645288394A3A1211FE628"
-            {
-            "Name" = "8:nssm.exe"
-            "Condition" = "8:"
-            "Object" = "8:_DAF4C856C36D418C907F086BA548E094"
+            "Name" = "8:RemoveService"
+            "Condition" = "8:RAB=1"
+            "Object" = "8:_5EFCCA6234394A90B0193F9133FCF255"
             "FileType" = "3:2"
             "InstallAction" = "3:4"
-            "Arguments" = "8:remove Easi_PiepServer confirm"
+            "Arguments" = "8:"
             "EntryPoint" = "8:"
             "Sequence" = "3:1"
-            "Identifier" = "8:_BF9FED81_8F4B_49F5_9A56_E07DA66DD3E5"
+            "Identifier" = "8:_448E6B02_5944_48A6_8FBC_06D19FB44030"
             "InstallerClass" = "11:FALSE"
-            "CustomActionData" = "8:"
+            "CustomActionData" = "8:0"
+            }
+            "{4AA51A2D-7D85-4A59-BA75-B0809FC8B380}:_FDE8059B9DBC40F4A1D9D414C73131EC"
+            {
+            "Name" = "8:RegService"
+            "Condition" = "8:RAB=1"
+            "Object" = "8:_988B20612E4F44D09926BAA28148E464"
+            "FileType" = "3:2"
+            "InstallAction" = "3:2"
+            "Arguments" = "8:"
+            "EntryPoint" = "8:"
+            "Sequence" = "3:1"
+            "Identifier" = "8:_643605DE_B7B0_45F2_83B1_A15424DDD56E"
+            "InstallerClass" = "11:FALSE"
+            "CustomActionData" = "8:0"
             }
         }
         "DefaultFeature"
@@ -333,6 +556,14 @@
         {
             "LaunchCondition"
             {
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_EB3749CD38914976968CA0418C7BC035"
+                {
+                "Name" = "8:.NET Framework"
+                "Message" = "8:[VSDNETMSG]"
+                "FrameworkVersion" = "8:.NETFramework,Version=v4.7.2"
+                "AllowLaterVersions" = "11:FALSE"
+                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=863262"
+                }
             }
         }
         "File"
@@ -654,7 +885,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:EasiPiep"
         "ProductCode" = "8:{B521A016-DA1F-4D10-AD02-487A5E7DA42F}"
-        "PackageCode" = "8:{6FB4E416-4BF4-408B-9344-94C18550DED6}"
+        "PackageCode" = "8:{9BC55308-964F-4DCB-BB0A-EF045DE1C5F3}"
         "UpgradeCode" = "8:{5C3BC591-B6E9-485A-AE00-ED7C45C25ABF}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -774,32 +1005,32 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_16398D5D404A48A1AD3055D97D813BDB"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_36399D819D61458EA912852715DE65A7"
             {
-            "Name" = "8:希沃“真’白板"
+            "Name" = "8:希沃“真”白板"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:101"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_8C19EEEA00AD45C3B5A1CCAB6DC694A3"
+            "Target" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
             "Folder" = "8:_9570AE967B904CB9BDC4D57B4E2BD099"
             "WorkingFolder" = "8:_CA1CFB1298584333ADAEED546E358409"
-            "Icon" = "8:_8C19EEEA00AD45C3B5A1CCAB6DC694A3"
+            "Icon" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_732B8C2C804F4E4CBD98BF6D253E9272"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_74330BF66B60491BA02851C570F45F92"
             {
-            "Name" = "8:希沃”真“白板"
+            "Name" = "8:希沃“真”白板"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:101"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_8C19EEEA00AD45C3B5A1CCAB6DC694A3"
+            "Target" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
             "Folder" = "8:_A2DF57F3D75744D3B37EA25CCBE94C84"
             "WorkingFolder" = "8:_CA1CFB1298584333ADAEED546E358409"
-            "Icon" = "8:_8C19EEEA00AD45C3B5A1CCAB6DC694A3"
+            "Icon" = "8:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
             "Feature" = "8:"
             }
         }
@@ -814,7 +1045,7 @@
                 {
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_580AA3AC289248E38B4FD3A9F5BD4251"
                     {
-                    "Sequence" = "3:100"
+                    "Sequence" = "3:200"
                     "DisplayName" = "8:欢迎使用"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
@@ -862,7 +1093,7 @@
                     }
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_7E262EEC23CE4EDFA68E143A13AECFBF"
                     {
-                    "Sequence" = "3:300"
+                    "Sequence" = "3:500"
                     "DisplayName" = "8:确认安装"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
@@ -884,7 +1115,7 @@
                     }
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_936754CC1A294B8E82A38AFBE0D2B46D"
                     {
-                    "Sequence" = "3:200"
+                    "Sequence" = "3:400"
                     "DisplayName" = "8:安装文件夹"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
@@ -917,9 +1148,135 @@
                             }
                         }
                     }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A2A73C6401E84E7BBF9EC0170F7A2FC0"
+                    {
+                    "Sequence" = "3:310"
+                    "DisplayName" = "8:RadioButton  (两个按钮)"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdCustom2ButtonDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "BannerText"
+                            {
+                            "Name" = "8:BannerText"
+                            "DisplayName" = "8:#1014"
+                            "Description" = "8:#1114"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:选择您要安装的版本"
+                            "DefaultValue" = "8:#1214"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "BodyText"
+                            {
+                            "Name" = "8:BodyText"
+                            "DisplayName" = "8:#1015"
+                            "Description" = "8:#1115"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:您需要决定在接下来的安装中您是否需要安装管道服务端用于结束进程。若您不需要，请选择“仅客户端”；若您需要，请选择“服务端和客户端”。注意：若选择“仅客户端”且开启UAC时每次运行时会弹出授权窗口。建议使用非常规手段获得电脑管理员权限的选择“服务端和客户端”，因为这样您可以还原学校电脑管理员权限并继续使用此软件。"
+                            "DefaultValue" = "8:#1215"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Button1Label"
+                            {
+                            "Name" = "8:Button1Label"
+                            "DisplayName" = "8:#1022"
+                            "Description" = "8:#1122"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:客户端和服务端"
+                            "DefaultValue" = "8:#1222"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Button1Value"
+                            {
+                            "Name" = "8:Button1Value"
+                            "DisplayName" = "8:#1018"
+                            "Description" = "8:#1118"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:1"
+                            "DefaultValue" = "8:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Button2Label"
+                            {
+                            "Name" = "8:Button2Label"
+                            "DisplayName" = "8:#1023"
+                            "Description" = "8:#1123"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:2"
+                            "Value" = "8:仅客户端"
+                            "DefaultValue" = "8:#1223"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Button2Value"
+                            {
+                            "Name" = "8:Button2Value"
+                            "DisplayName" = "8:#1019"
+                            "Description" = "8:#1119"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:2"
+                            "DefaultValue" = "8:2"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ButtonProperty"
+                            {
+                            "Name" = "8:ButtonProperty"
+                            "DisplayName" = "8:#1017"
+                            "Description" = "8:#1117"
+                            "Type" = "3:14"
+                            "ContextData" = "8:Public"
+                            "Attributes" = "3:2"
+                            "Setting" = "3:2"
+                            "Value" = "8:RAB"
+                            "DefaultValue" = "8:BUTTON2"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "DefaultValue"
+                            {
+                            "Name" = "8:DefaultValue"
+                            "DisplayName" = "8:#1016"
+                            "Description" = "8:#1116"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:1"
+                            "DefaultValue" = "8:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_E9943D6138C44F31AA042D28124E5212"
                     {
-                    "Sequence" = "3:110"
+                    "Sequence" = "3:300"
                     "DisplayName" = "8:许可协议"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
@@ -1295,41 +1652,13 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4B6A858A5B064E5CB38C0DA7201AD10B"
-            {
-            "SourcePath" = "8:..\\x64\\Release\\RegService.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:Release|x64"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{86D47EAF-1878-4C5B-98EF-CFDB63782F32}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5B8BD4591E9C4A00B61D41BE280B1A93"
             {
             "SourcePath" = "8:..\\x64\\Release\\Piep_Server.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
-            "Condition" = "8:"
+            "Condition" = "8:RAB=1"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
             "ReadOnly" = "11:FALSE"
@@ -1351,9 +1680,66 @@
                 {
                 }
             }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5EFCCA6234394A90B0193F9133FCF255"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\RemoveService.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
+            "Condition" = "8:RAB=1"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Release|x64"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{94BE90CA-A0BD-45A0-AC41-A82713FD38B4}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_8C19EEEA00AD45C3B5A1CCAB6DC694A3"
             {
             "SourcePath" = "8:..\\x64\\Release\\Piep_Client.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
+            "Condition" = "8:RAB=1"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Release|x64"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{C82C410D-361A-4963-A463-D5F588B8230C}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                "ExcludeFilter" = "8:RAB.value==1"
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_8E7BB32C57BC4AFE80C6E7AE0D88322F"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\ClientLauncher.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
@@ -1373,7 +1759,63 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:Release|x64"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{C82C410D-361A-4963-A463-D5F588B8230C}"
+            "OutputProjectGuid" = "8:{BCE331AB-0A87-4D5A-9911-A9880E23642A}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_988B20612E4F44D09926BAA28148E464"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\RegService.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
+            "Condition" = "8:RAB=1"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Release|x64"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{86D47EAF-1878-4C5B-98EF-CFDB63782F32}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_DFD6AB0175DD4AFFB8E265102FBF6E10"
+            {
+            "SourcePath" = "8:..\\x64\\Release\\OnlyClient.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CA1CFB1298584333ADAEED546E358409"
+            "Condition" = "8:RAB=2"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Release|x64"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{9357442C-BB4E-40AE-B258-5170D431387D}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
